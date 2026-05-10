@@ -1,6 +1,6 @@
 # Hi, I'm Praveen 👋
 
-Full Stack & AI Developer passionate about building scalable systems, intelligent applications, and backend architectures.
+Full Stack & Backend Developer passionate about building scalable systems, intelligent applications, and backend architectures.
 
 ## Tech Interests
 - Java Development
@@ -29,6 +29,6 @@ Full Stack & AI Developer passionate about building scalable systems, intelligen
 - Full Stack Web Applications
 - Smart Port Optimization System
 - Reinforcement Learning Research Projects
-
 ## Connect
 - GitHub: https://github.com/praveenc-13
+- Email: praveenchinnaraja13@gmail.com
