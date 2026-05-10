@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Praveen 👋
 
-<!--
-**PraveenC-13/PraveenC-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack & AI Developer passionate about building scalable systems, intelligent applications, and backend architectures.
 
-Here are some ideas to get you started:
+## Tech Interests
+- Java Development
+- Go (Golang)
+- Backend Engineering
+- Cloud Computing
+- Artificial Intelligence
+- Reinforcement Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Scalable backend systems
+- AI-powered applications
+- Hackathon projects
+- Distributed systems
+
+## Tech Stack
+- Java
+- Go
+- Python
+- JavaScript
+- React
+- FastAPI
+- Git & GitHub
+
+## Projects
+- Full Stack Web Applications
+- Smart Port Optimization System
+- Reinforcement Learning Research Projects
+
+## Connect
+- GitHub: https://github.com/praveenc-13
